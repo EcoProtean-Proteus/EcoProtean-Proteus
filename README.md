@@ -14,15 +14,14 @@ At EcoProtean Proteus, we believe in the versatility of solutions for environmen
 
 ## 🔧 Key Projects
 
-- **SustainAdapt**: A tool to help communities and businesses adapt to climate-related changes through real-time monitoring and analytics.
-- **GreenLink**: A platform that connects climate action stakeholders, fostering global partnerships for collective progress.
-- **ProteanEco SDK**: A developer toolkit for creating modular, scalable solutions focused on environmental impact reduction.
+## Coming Soon
 
 ## 📫 Contact Us
 
-- **Email**: 
+- **Email**: Will be added later
 
-- **Website**: 
+
+- **Website**: Coming Soon
 
 
 Let’s build a sustainable future—one adaptable solution at a time!
