@@ -1,28 +1,26 @@
 # EcoProtean Proteus 🌍
 
-Welcome to **EcoProtean Proteus**, a forward-thinking initiative dedicated to developing innovative solutions for climate action and sustainable partnerships. Our mission is to harness the power of adaptability and collaboration to tackle some of the world's most pressing environmental challenges.
+Hi! Welcome to **EcoProtean Proteus**, a project we started as two second-year IT students who want to combine our passion for tech with climate action and sustainability. This is our way of contributing to making the world a better place through code.
 
-## 🌱 Mission
+## 🌱 What We're About
 
-At EcoProtean Proteus, we believe in the versatility of solutions for environmental sustainability. Just like the mythological figure Proteus, our approach is dynamic and adaptable, evolving as the needs of our planet shift. We aim to contribute to **SDG 13 (Climate Action)** and **SDG 17 (Partnerships for the Goals)** by providing adaptable, tech-driven solutions that foster sustainable practices and global cooperation.
+EcoProtean Proteus is all about flexibility and adaptability, just like the mythological figure **Proteus**, who could change form. We believe we need to be flexible when solving environmental problems, especially with climate change being such a big issue.
+
+Our goal is to:
+- Help with **climate action** by using technology to raise awareness and provide solutions.
+- Build **partnerships** between different people and organizations so we can work together to make a bigger impact.
 
 ## 🌐 What We Do
 
-- **Climate Action Technology**: We develop innovative tools and platforms that promote climate awareness and provide actionable solutions for environmental issues.
-- **Partnership-Focused Projects**: Through collaboration, we design systems that encourage global partnerships and facilitate resource sharing to achieve sustainability goals.
-- **Open Source Innovation**: By embracing open-source collaboration, we encourage the global developer community to contribute to impactful environmental technologies.
-
-## 🔧 Key Projects
-
-## Coming Soon
+Some of the things we’re working on:
+- **SustainAdapt**: A tool that helps people and businesses adjust to changes caused by the climate.
+- **GreenLink**: A platform that connects people who want to collaborate on climate projects.
+- **ProteanEco SDK**: A toolkit for developers who want to build apps focused on the environment.
 
 ## 📫 Contact Us
 
-- **Email**: Will be added later
+- **Email**: [kentryanpagongpong@gmail.com](mailto:kentryanpagongpong@gmail.com)
+- **Website**: *(coming soon)*
 
-
-- **Website**: Coming Soon
-
-
-Let’s build a sustainable future—one adaptable solution at a time!
+Thanks for checking out our project! Let’s work together to make the world a greener place 
 
